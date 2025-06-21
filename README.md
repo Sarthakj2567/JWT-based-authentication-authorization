@@ -1,1 +1,1 @@
-# JWT-based-authentication-authorization
+# JWT-based-authentication-and-authorization
